@@ -8,6 +8,8 @@ sites:
     url: https://rdpai.utools.club
   - name: SuperPi@Home
     url: https://piathome.utools.club
+  - name: RDP Archive
+    url: https://archive.utools.club
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

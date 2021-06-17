@@ -5,7 +5,7 @@
     "slug": "rdp-ai",
     "status": "down",
     "uptime": "1.50%",
-    "time": 154
+    "time": 144
   },
   {
     "name": "SuperPi@Home",
@@ -13,7 +13,7 @@
     "slug": "super-pi-home",
     "status": "down",
     "uptime": "1.16%",
-    "time": 155
+    "time": 143
   },
   {
     "name": "RDP Archive",
@@ -21,7 +21,7 @@
     "slug": "rdp-archive",
     "status": "down",
     "uptime": "0.98%",
-    "time": 148
+    "time": 137
   },
   {
     "name": "RDP Blog",
@@ -29,6 +29,6 @@
     "slug": "rdp-blog",
     "status": "up",
     "uptime": "99.58%",
-    "time": 435
+    "time": 434
   }
 ]

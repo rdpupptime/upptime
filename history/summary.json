@@ -4,16 +4,16 @@
     "url": "https://rdpai.utools.club",
     "slug": "rdp-ai",
     "status": "down",
-    "uptime": "1.43%",
-    "time": 35
+    "uptime": "1.42%",
+    "time": 25
   },
   {
     "name": "SuperPi@Home",
     "url": "https://piathome.utools.club",
     "slug": "super-pi-home",
     "status": "down",
-    "uptime": "1.11%",
-    "time": 35
+    "uptime": "1.10%",
+    "time": 25
   },
   {
     "name": "RDP Archive",
@@ -21,7 +21,7 @@
     "slug": "rdp-archive",
     "status": "down",
     "uptime": "0.93%",
-    "time": 34
+    "time": 24
   },
   {
     "name": "RDP Blog",
@@ -29,6 +29,6 @@
     "slug": "rdp-blog",
     "status": "up",
     "uptime": "99.60%",
-    "time": 421
+    "time": 419
   }
 ]

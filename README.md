@@ -1,4 +1,4 @@
-# [📈 Live Status](https://rdpupptime.github.io/upptime): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://rdpupptime.github.io/upptime): <!--live status--> **🟥 Complete outage**
 
 This repository contains the open-source uptime monitor and status page for [rdpupptime](https://rdpupptime.github.io/upptime), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -19,7 +19,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 | [RDP AI](https://rdpai.utools.club)          | 🟥 Down | [rdp-ai.yml](https://github.com/rdpupptime/upptime/commits/master/history/rdp-ai.yml)               | <img alt="Response time graph" src="./graphs/rdp-ai.png" height="20"> 0ms        | [![Uptime 1.28%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frdpupptime%2Fupptime%2Fmaster%2Fapi%2Frdp-ai%2Fuptime.json)](https://rdpupptime.github.io/upptime/history/rdp-ai)               |
 | [SuperPi@Home](https://piathome.utools.club) | 🟥 Down | [super-pi-home.yml](https://github.com/rdpupptime/upptime/commits/master/history/super-pi-home.yml) | <img alt="Response time graph" src="./graphs/super-pi-home.png" height="20"> 0ms | [![Uptime 0.99%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frdpupptime%2Fupptime%2Fmaster%2Fapi%2Fsuper-pi-home%2Fuptime.json)](https://rdpupptime.github.io/upptime/history/super-pi-home) |
 | [RDP Archive](https://archive.utools.club)   | 🟥 Down | [rdp-archive.yml](https://github.com/rdpupptime/upptime/commits/master/history/rdp-archive.yml)     | <img alt="Response time graph" src="./graphs/rdp-archive.png" height="20"> 0ms   | [![Uptime 0.83%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frdpupptime%2Fupptime%2Fmaster%2Fapi%2Frdp-archive%2Fuptime.json)](https://rdpupptime.github.io/upptime/history/rdp-archive)     |
-| [RDP Blog](https://blog.rdpstudio.top)       | 🟩 Up   | [rdp-blog.yml](https://github.com/rdpupptime/upptime/commits/master/history/rdp-blog.yml)           | <img alt="Response time graph" src="./graphs/rdp-blog.png" height="20"> 374ms    | [![Uptime 99.64%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frdpupptime%2Fupptime%2Fmaster%2Fapi%2Frdp-blog%2Fuptime.json)](https://rdpupptime.github.io/upptime/history/rdp-blog)          |
+| [RDP Blog](https://blog.rdpstudio.top)       | 🟥 Down | [rdp-blog.yml](https://github.com/rdpupptime/upptime/commits/master/history/rdp-blog.yml)           | <img alt="Response time graph" src="./graphs/rdp-blog.png" height="20"> 371ms    | [![Uptime 99.64%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frdpupptime%2Fupptime%2Fmaster%2Fapi%2Frdp-blog%2Fuptime.json)](https://rdpupptime.github.io/upptime/history/rdp-blog)          |
 
 <!--end: status pages-->
 

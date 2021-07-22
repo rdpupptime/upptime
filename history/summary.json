@@ -27,8 +27,8 @@
     "name": "RDP Blog",
     "url": "https://blog.rdpstudio.top",
     "slug": "rdp-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.64%",
-    "time": 371
+    "time": 369
   }
 ]

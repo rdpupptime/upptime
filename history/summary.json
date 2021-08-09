@@ -20,7 +20,7 @@
     "url": "https://archive.utools.club",
     "slug": "rdp-archive",
     "status": "down",
-    "uptime": "0.78%",
+    "uptime": "0.77%",
     "time": 0
   },
   {
@@ -29,6 +29,6 @@
     "slug": "rdp-blog",
     "status": "up",
     "uptime": "99.67%",
-    "time": 330
+    "time": 333
   }
 ]

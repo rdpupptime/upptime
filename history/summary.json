@@ -4,7 +4,7 @@
     "url": "https://rdpai.utools.club",
     "slug": "rdp-ai",
     "status": "down",
-    "uptime": "1.16%",
+    "uptime": "1.15%",
     "time": 0
   },
   {
@@ -12,7 +12,7 @@
     "url": "https://piathome.utools.club",
     "slug": "super-pi-home",
     "status": "down",
-    "uptime": "0.90%",
+    "uptime": "0.89%",
     "time": 0
   },
   {
@@ -29,6 +29,6 @@
     "slug": "rdp-blog",
     "status": "up",
     "uptime": "99.68%",
-    "time": 325
+    "time": 323
   }
 ]

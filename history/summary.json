@@ -12,7 +12,7 @@
     "url": "https://piathome.utools.club",
     "slug": "super-pi-home",
     "status": "down",
-    "uptime": "0.65%",
+    "uptime": "0.64%",
     "time": 0
   },
   {
@@ -29,6 +29,6 @@
     "slug": "rdp-blog",
     "status": "up",
     "uptime": "99.77%",
-    "time": 362
+    "time": 365
   }
 ]

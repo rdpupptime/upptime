@@ -11,7 +11,7 @@
     "name": "SuperPi@Home",
     "url": "https://piathome.utools.club",
     "slug": "super-pi-home",
-    "status": "down",
+    "status": "up",
     "uptime": "27.25%",
     "time": 1122
   },
@@ -19,9 +19,9 @@
     "name": "RDP Archive",
     "url": "https://archive.utools.club",
     "slug": "rdp-archive",
-    "status": "down",
+    "status": "up",
     "uptime": "27.20%",
-    "time": 909
+    "time": 908
   },
   {
     "name": "RDP Blog",

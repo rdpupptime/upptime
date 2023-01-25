@@ -19,9 +19,9 @@
     "name": "RDP Archive",
     "url": "https://archive.utools.club",
     "slug": "rdp-archive",
-    "status": "down",
+    "status": "up",
     "uptime": "31.11%",
-    "time": 909
+    "time": 908
   },
   {
     "name": "RDP Blog",

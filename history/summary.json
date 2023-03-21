@@ -3,9 +3,9 @@
     "name": "RDP AI",
     "url": "https://rdpai.utools.club",
     "slug": "rdp-ai",
-    "status": "down",
+    "status": "up",
     "uptime": "35.77%",
-    "time": 923
+    "time": 926
   },
   {
     "name": "SuperPi@Home",
@@ -19,9 +19,9 @@
     "name": "RDP Archive",
     "url": "https://archive.utools.club",
     "slug": "rdp-archive",
-    "status": "down",
+    "status": "up",
     "uptime": "35.64%",
-    "time": 867
+    "time": 870
   },
   {
     "name": "RDP Blog",
